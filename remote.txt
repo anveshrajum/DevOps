@@ -3,3 +3,7 @@ This is modified
 updated again
 updated on 18th feb
 updated again on 19th feb
+<<<<<<< HEAD
+=======
+updated after creating new branch
+>>>>>>> 97f290bfca9840925a8225c8e4cdaf96b89f22f7
