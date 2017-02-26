@@ -1,2 +1,3 @@
 new file chnages
 updated for jenkins
+Jenkins build trigger with Poll SCM
